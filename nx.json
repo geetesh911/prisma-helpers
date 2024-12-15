@@ -36,6 +36,14 @@
   "release": {
     "version": {
       "preVersionCommand": "pnpm dlx nx run-many -t build"
+    },
+    "changelog": {
+      "workspaceChangelog": {
+        "file": false
+      },
+      "projectChangelogs": {
+        "createRelease": "github"
+      }
     }
   },
   "targetDefaults": {
