@@ -1,0 +1,34 @@
+{
+  "name": "@prisma-helpers/prisma-to-drizzle-query-transformer",
+  "version": "0.0.1",
+  "dependencies": {
+    "drizzle-orm": "^0.38.2",
+    "tslib": "^2.3.0"
+  },
+  "type": "commonjs",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "!**/*.tsbuildinfo"
+  ],
+  "nx": {
+    "sourceRoot": "packages/prisma-to-drizzle-query-transformer/src",
+    "projectType": "library",
+    "tags": [
+      "prisma-to-drizzle-query-transformer"
+    ],
+    "name": "prisma-to-drizzle-query-transformer",
+    "targets": {
+      "test": {
+        "executor": "@nx/vite:test",
+        "outputs": [
+          "{options.reportsDirectory}"
+        ],
+        "options": {
+          "reportsDirectory": "../../coverage/packages/prisma-to-drizzle-query-transformer"
+        }
+      }
+    }
+  }
+}
