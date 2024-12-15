@@ -35,11 +35,11 @@ jobs:
         shell: bash
 
       - name: Print Environment Info
-        run: pnpm dlx nx report
+        run: npx nx report
         shell: bash
 
       - name: Publish packages
-        run: pnpm dlx nx release publish
+        run: npx nx release publish
         shell: bash
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_ACCESS_TOKEN }}
