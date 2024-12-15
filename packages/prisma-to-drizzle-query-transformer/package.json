@@ -1,6 +1,6 @@
 {
   "name": "@prisma-helpers/prisma-to-drizzle-query-transformer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "drizzle-orm": "^0.38.2",
     "tslib": "^2.3.0"
