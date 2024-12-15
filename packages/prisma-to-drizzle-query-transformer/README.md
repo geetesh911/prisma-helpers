@@ -170,6 +170,12 @@ The transformer will throw errors for unsupported operators or invalid query str
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
+## Buy Me a Coffee
+
+If you like this project, please consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/geetesh911" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## License
 
 This project is licensed under the MIT License.
