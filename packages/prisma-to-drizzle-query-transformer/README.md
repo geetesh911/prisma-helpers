@@ -15,11 +15,11 @@ The `PrismaToDrizzleTransformer` is a utility that transforms Prisma query objec
 To install the package, use npm or yarn:
 
 ```bash
-npm install prisma-to-drizzle-query-transformer
+npm install @geetesh911/prisma-to-drizzle-query-transformer
 # or
-yarn add prisma-to-drizzle-query-transformer
+yarn add @geetesh911/prisma-to-drizzle-query-transformer
 # or
-pnpm add prisma-to-drizzle-query-transformer
+pnpm add @geetesh911/prisma-to-drizzle-query-transformer
 ```
 
 ## Usage
