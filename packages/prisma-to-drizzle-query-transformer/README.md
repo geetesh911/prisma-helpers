@@ -172,9 +172,11 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Buy Me a Coffee
 
-If you like this project, please consider buying me a coffee!
+If you enjoy using this project or want to help improve it, your support means the world! You can:
 
-<a href="https://www.buymeacoffee.com/geetesh911" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+- ⭐ Star the repository
+- 🗨️ Share feedback
+- <a href="https://www.buymeacoffee.com/geetesh911" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
 
 ## License
 
